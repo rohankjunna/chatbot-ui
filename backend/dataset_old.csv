@@ -1,0 +1,534 @@
+intent,pattern,response
+fees,fees,Fees start from ₹2000/month
+fees,what is fees,Fees start from ₹2000/month
+fees,price,Fees start from ₹2000/month
+fees,cost,Fees start from ₹2000/month
+fees,how much fees,Fees start from ₹2000/month
+fees,monthly fees,Fees start from ₹2000/month
+fees,tuition fees,Fees start from ₹2000/month
+fees,what is the cost,Fees start from ₹2000/month
+fees,charges,Fees start from ₹2000/month
+fees,fee structure,Fees start from ₹2000/month
+fees,how much does it cost,Fees start from ₹2000/month
+fees,price for tuition,Fees start from ₹2000/month
+fees,is it expensive,Fees start from ₹2000/month
+fees,how much money,Fees start from ₹2000/month
+fees,what are charges,Fees start from ₹2000/month
+demo,demo,We provide demo classes
+demo,trial class,We provide demo classes
+demo,free demo,We provide demo classes
+demo,can i try,We provide demo classes
+demo,is demo available,We provide demo classes
+demo,sample class,We provide demo classes
+demo,first class demo,We provide demo classes
+demo,trial session,We provide demo classes
+subjects,subjects,Maths Science English available
+subjects,what subjects,Maths Science English available
+subjects,which subjects,Maths Science English available
+subjects,what do you teach,Maths Science English available
+subjects,courses available,Maths Science English available
+subjects,topics available,Maths Science English available
+subjects,what courses,Maths Science English available
+greeting,hi,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hello,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hey,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,good morning,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,good evening,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,good afternoon,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hi there,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hello there,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hey there,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,howdy,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,greetings,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,sup,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,what's up,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,anyone there,Hello! Welcome to VidhyaGharSe. How can I help you today?
+greeting,hello vidhyagharse,Hello! Welcome to VidhyaGharSe. How can I help you today?
+goodbye,bye,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,goodbye,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,see you,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,take care,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,exit,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,quit,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,that's all,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,thanks bye,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,ok bye,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,good night,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,i'm done,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,cya,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,talk later,Goodbye! Feel free to come back anytime. Have a great day!
+goodbye,have a good day,Goodbye! Feel free to come back anytime. Have a great day!
+thanks,thank you,You're welcome! Is there anything else I can help you with?
+thanks,thanks,You're welcome! Is there anything else I can help you with?
+thanks,thanks a lot,You're welcome! Is there anything else I can help you with?
+thanks,thank you so much,You're welcome! Is there anything else I can help you with?
+thanks,appreciate it,You're welcome! Is there anything else I can help you with?
+thanks,many thanks,You're welcome! Is there anything else I can help you with?
+thanks,thx,You're welcome! Is there anything else I can help you with?
+thanks,ty,You're welcome! Is there anything else I can help you with?
+thanks,much appreciated,You're welcome! Is there anything else I can help you with?
+thanks,thanks for your help,You're welcome! Is there anything else I can help you with?
+thanks,cheers,You're welcome! Is there anything else I can help you with?
+thanks,you are helpful,You're welcome! Is there anything else I can help you with?
+about,who are you,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,what is vidhyagharse,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,tell me about vidhyagharse,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,about your platform,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,what do you do,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,company info,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,what is this platform,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,explain vidhyagharse,VidhyaGharSe is a managed tuition marketplace connecting parents and students with expert tutors for home and online tuition across India.
+about,vidhyagharse kya hai,VidhyaGharSe ek managed tuition marketplace hai jo parents aur students ko expert tutors se milata hai.
+about,your mission,Our mission is to make quality education accessible to every student across India through trusted and verified tutors.
+find_tutor,i want a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,find a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,need a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,looking for a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,how to find a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,get a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,tutor for my child,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,search tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,mujhe tutor chahiye,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,good tutor near me,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,best tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+find_tutor,recommend a tutor,We will help you find the perfect tutor! Please register as a parent and share your requirements. Visit /find-tutor to get started.
+home_tuition,home tuition,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,home tutor,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,tutor at home,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,home teaching,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,tutor visit home,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,tutor come to my house,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,physical tuition,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,offline tuition,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,in person tutor,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+home_tuition,face to face tutor,We offer home tuition across Hyderabad, Bengaluru, Mumbai, Pune, and Delhi. Register to get a tutor at your doorstep!
+online_tuition,online tuition,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,online tutor,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,online classes,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,virtual tuition,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,online teaching,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,learn online,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,online class for my child,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,video call tutor,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,remote tuition,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+online_tuition,zoom class,We offer live 1-on-1 online tuition from the comfort of your home. Sessions are conducted via video call with verified tutors.
+parent_register,how to register as parent,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,parent registration,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,register my child,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,sign up as parent,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,i am a parent how to start,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,enroll my child,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,how to join as parent,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,create parent account,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,parent signup,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+parent_register,new parent registration,Registration is simple! Visit /parent-register. Enter your name, phone (OTP verified), class, board, and location. It takes under 2 minutes!
+tutor_register,become a tutor,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,how to become a tutor,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,register as tutor,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,tutor registration,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,i want to teach,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,join as tutor,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,sign up as teacher,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,apply as tutor,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,tutor apply,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,how to apply as teacher,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,faculty registration,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+tutor_register,tutor onboarding,Join VidhyaGharSe as a tutor! Visit /become-a-tutor to register. You will need to upload your photo, resume, and Aadhaar for verification.
+pricing,how much does it cost,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,what is the price,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,pricing,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,fees,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,charges,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,is it free,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,monthly fee,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,tuition cost,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,how much for tutor,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,what are the rates,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,cost per month,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,kitna lagega,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,fee structure,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+pricing,fee details,Our tuition plans start at Rs.499. Visit /pricing for full plan details or contact us for a custom quote.
+demo_class,demo class,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,free demo,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,trial class,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,demo session,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,can i try before paying,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,demo fee,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,sample class,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,introductory class,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,how is the demo,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+demo_class,book a demo,We offer a demo session before you commit! Pay a small demo fee and experience the quality of our tutors firsthand.
+subjects_maths,maths tutor,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,mathematics,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,math classes,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,maths teacher,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,tutor for maths,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,math help,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,algebra tutor,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,geometry tutor,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,calculus tutor,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_maths,maths coaching,We have expert maths tutors for all grades K-12. Register now to get matched with a tutor near you!
+subjects_science,science tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,physics tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,chemistry tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,biology tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,science classes,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,pcm tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,pcb tutor,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,science teacher,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,physics help,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_science,chemistry coaching,We have qualified science tutors for Physics, Chemistry, and Biology for all grades. Register to get started!
+subjects_english,english tutor,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english classes,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,spoken english,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english teacher,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,improve english,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english grammar,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english writing,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english coaching,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,fluent english,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+subjects_english,english speaking course,We have experienced English tutors for spoken English, grammar, reading, and writing for all ages.
+competitive_exams,neet coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,jee coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,neet preparation,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,jee preparation,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,eamcet coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,sat coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,ecet coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,entrance exam tutor,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,competitive exam preparation,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,medical entrance coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+competitive_exams,engineering entrance coaching,We provide coaching for NEET, JEE, SAT, EAMCET, and ECET. Our expert tutors will guide you to crack these exams!
+phonics,phonics course,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,phonics classes,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,phonics for kids,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,learn phonics,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,phonics tutor,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,reading for kids,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+phonics,phonics program,We offer a dedicated Phonics course for young learners to build strong reading and pronunciation skills. Visit /courses/phonics.
+maths_ability,maths ability course,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+maths_ability,mental maths,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+maths_ability,maths skill course,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+maths_ability,improve maths,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+maths_ability,math ability,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+maths_ability,vedic maths,Our Maths Ability course helps students build strong mental math and problem-solving skills. Visit /courses/maths-ability.
+city_hyderabad,tutor in hyderabad,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,hyderabad tuition,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,home tutor hyderabad,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,tuition in hyderabad,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,hyd tutor,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,secunderabad tutor,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,kukatpally tutor,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,miyapur tutor,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_hyderabad,gachibowli tutor,We have verified tutors across Hyderabad including Kukatpally, Miyapur, Madhapur, Gachibowli, and more. Register now!
+city_bengaluru,tutor in bangalore,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_bengaluru,bangalore tuition,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_bengaluru,bengaluru tutor,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_bengaluru,home tutor bangalore,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_bengaluru,blr tutor,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_bengaluru,tuition in bangalore,We have verified tutors across Bengaluru. Register to find the best tutor near your locality!
+city_mumbai,tutor in mumbai,We have verified tutors across Mumbai. Register to find the best tutor near your locality!
+city_mumbai,mumbai tuition,We have verified tutors across Mumbai. Register to find the best tutor near your locality!
+city_mumbai,home tutor mumbai,We have verified tutors across Mumbai. Register to find the best tutor near your locality!
+city_mumbai,tuition in mumbai,We have verified tutors across Mumbai. Register to find the best tutor near your locality!
+city_pune,tutor in pune,We have verified tutors across Pune. Register to find the best tutor near your locality!
+city_pune,pune tuition,We have verified tutors across Pune. Register to find the best tutor near your locality!
+city_pune,home tutor pune,We have verified tutors across Pune. Register to find the best tutor near your locality!
+city_delhi,tutor in delhi,We have verified tutors across Delhi. Register to find the best tutor near your locality!
+city_delhi,delhi tuition,We have verified tutors across Delhi. Register to find the best tutor near your locality!
+city_delhi,home tutor delhi,We have verified tutors across Delhi. Register to find the best tutor near your locality!
+city_delhi,tuition in delhi,We have verified tutors across Delhi. Register to find the best tutor near your locality!
+city_delhi,ncr tutor,We have verified tutors across Delhi. Register to find the best tutor near your locality!
+payment,how to pay,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,payment methods,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,accepted payments,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,upi payment,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,can i pay by card,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,online payment,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,payment options,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,pay by upi,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,net banking,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,paytm payment,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,gpay payment,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+payment,payment gateway,All payments are made securely through the VidhyaGharSe platform. We accept UPI, credit/debit cards, and net banking.
+refund,refund,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,money back,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,get refund,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,want my money back,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,refund policy,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,cancel and refund,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+refund,how to get refund,Refunds are processed as per our refund policy. Please contact support@vidhyagharse.com with your booking ID for assistance.
+cancel_booking,cancel my booking,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,i want to cancel,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,cancel appointment,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,stop tuition,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,discontinue tuition,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,how to cancel,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+cancel_booking,remove booking,To cancel your booking please contact us at support@vidhyagharse.com or call us with your booking ID. We will process it promptly.
+reschedule,reschedule class,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+reschedule,change timing,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+reschedule,change class time,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+reschedule,postpone class,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+reschedule,shift my class,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+reschedule,change appointment,To reschedule a class please contact your assigned tutor through the platform or reach our support team.
+tutor_earning,how much can i earn as tutor,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,tutor salary,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,tutor income,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,how tutors get paid,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,tutor payout,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,monthly payout tutor,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,earning for teacher,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_earning,part time teaching income,Tutors on VidhyaGharSe earn competitive monthly payouts based on assigned sessions. Premium tutors get priority leads and higher earnings!
+tutor_documents,documents needed for tutor,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+tutor_documents,what documents required,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+tutor_documents,tutor verification documents,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+tutor_documents,aadhaar required,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+tutor_documents,resume required,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+tutor_documents,id proof for tutor,Tutors need to upload a photo, resume, and Aadhaar card. PAN card is optional. All documents are verified for trust and safety.
+contact,contact,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,email,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,phone number,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,reach you,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,how to contact,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,support,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,helpline,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,customer care,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,whatsapp number,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,get in touch,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+contact,call you,You can reach us at support@vidhyagharse.com or via WhatsApp. We are available Monday to Saturday 9am to 6pm.
+working_hours,working hours,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,office hours,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,when are you open,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,business hours,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,timing,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,open sunday,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,open on weekends,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+working_hours,when can i call,We are available Monday to Saturday from 9:00 AM to 6:00 PM IST. Closed on Sundays and public holidays.
+privacy,is my data safe,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,data safety,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,privacy policy,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,personal info safe,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,gdpr,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,do you share my data,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+privacy,data protection,Your data is fully protected. We use encrypted databases and OTP-based login. Contact details of tutors and parents are never shared with each other.
+tutor_contact_hide,can i get tutor phone number,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+tutor_contact_hide,tutor whatsapp number,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+tutor_contact_hide,tutor email id,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+tutor_contact_hide,contact tutor directly,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+tutor_contact_hide,tutor number,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+tutor_contact_hide,how to contact tutor,For privacy and safety, tutor contact details are not shared directly. All communication happens through the VidhyaGharSe platform.
+parent_contact_hide,can i get parent number,For privacy and safety, parent contact details are not shared with tutors. All communication happens through the VidhyaGharSe platform.
+parent_contact_hide,parent phone number,For privacy and safety, parent contact details are not shared with tutors. All communication happens through the VidhyaGharSe platform.
+parent_contact_hide,student contact details,For privacy and safety, parent contact details are not shared with tutors. All communication happens through the VidhyaGharSe platform.
+parent_contact_hide,contact parent directly,For privacy and safety, parent contact details are not shared with tutors. All communication happens through the VidhyaGharSe platform.
+board_cbse,cbse tutor,We have tutors experienced in CBSE curriculum for all classes from 1 to 12. Register now to get matched!
+board_cbse,cbse classes,We have tutors experienced in CBSE curriculum for all classes from 1 to 12. Register now to get matched!
+board_cbse,cbse syllabus,We have tutors experienced in CBSE curriculum for all classes from 1 to 12. Register now to get matched!
+board_icse,icse tutor,We have tutors experienced in ICSE curriculum. Register now to get matched with the right tutor!
+board_icse,icse classes,We have tutors experienced in ICSE curriculum. Register now to get matched with the right tutor!
+board_state,state board tutor,We have tutors for State Board (AP, Telangana, Maharashtra, Karnataka) curriculum. Register to get matched!
+board_state,telangana board tutor,We have tutors for State Board (AP, Telangana, Maharashtra, Karnataka) curriculum. Register to get matched!
+board_state,ap board tutor,We have tutors for State Board (AP, Telangana, Maharashtra, Karnataka) curriculum. Register to get matched!
+board_state,maharashtra board tutor,We have tutors for State Board (AP, Telangana, Maharashtra, Karnataka) curriculum. Register to get matched!
+class_primary,class 1 tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_primary,class 2 tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_primary,class 3 tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_primary,class 4 tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_primary,class 5 tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_primary,primary school tutor,We have tutors for Class 1 to 5 covering all subjects. Register to get the best match for your child!
+class_middle,class 6 tutor,We have tutors for Class 6 to 8 covering Maths, Science, English, and Social Studies. Register now!
+class_middle,class 7 tutor,We have tutors for Class 6 to 8 covering Maths, Science, English, and Social Studies. Register now!
+class_middle,class 8 tutor,We have tutors for Class 6 to 8 covering Maths, Science, English, and Social Studies. Register now!
+class_middle,middle school tutor,We have tutors for Class 6 to 8 covering Maths, Science, English, and Social Studies. Register now!
+class_secondary,class 9 tutor,We have tutors for Class 9 and 10 for all subjects including exam preparation. Register to get matched!
+class_secondary,class 10 tutor,We have tutors for Class 9 and 10 for all subjects including exam preparation. Register to get matched!
+class_secondary,10th tutor,We have tutors for Class 9 and 10 for all subjects including exam preparation. Register to get matched!
+class_secondary,ssc tutor,We have tutors for Class 9 and 10 for all subjects including exam preparation. Register to get matched!
+class_secondary,board exam tutor,We have tutors for Class 9 and 10 for all subjects including exam preparation. Register to get matched!
+class_higher,class 11 tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+class_higher,class 12 tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+class_higher,11th tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+class_higher,12th tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+class_higher,intermediate tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+class_higher,plus two tutor,We have tutors for Class 11 and 12 for Science, Commerce, and Arts streams. Register to get matched!
+tutor_quality,are tutors verified,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,how good are tutors,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,tutor background check,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,trusted tutors,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,tutor rating,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,experienced tutors,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+tutor_quality,qualified teachers,Yes! All tutors are verified with Aadhaar and resume checks. We also track demo success rates and student retention scores.
+reassign tutor,not satisfied with tutor,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+reassign tutor,change my tutor,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+reassign tutor,want different tutor,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+reassign tutor,replace tutor,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+reassign tutor,tutor not good,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+reassign tutor,need new tutor,We apologize! If you are not satisfied after the demo, we will reassign a new tutor for you automatically. Your satisfaction is our priority.
+parent dashboard,parent dashboard,Your parent dashboard lets you track sessions, view tutor details, make payments, and monitor your child's progress. Log in at /parent/dashboard.
+parent dashboard,how to track progress,Your parent dashboard lets you track sessions, view tutor details, make payments, and monitor your child's progress. Log in at /parent/dashboard.
+parent dashboard,student performance,Your parent dashboard lets you track sessions, view tutor details, make payments, and monitor your child's progress. Log in at /parent/dashboard.
+parent dashboard,my account,Your parent dashboard lets you track sessions, view tutor details, make payments, and monitor your child's progress. Log in at /parent/dashboard.
+parent dashboard,view my bookings,Your parent dashboard lets you track sessions, view tutor details, make payments, and monitor your child's progress. Log in at /parent/dashboard.
+tutor dashboard,tutor dashboard,Your tutor dashboard shows available leads, assigned sessions, earnings, attendance, and upskill courses. Log in at /tutor/dashboard.
+tutor dashboard,how to see leads,Your tutor dashboard shows available leads, assigned sessions, earnings, attendance, and upskill courses. Log in at /tutor/dashboard.
+tutor dashboard,tutor account,Your tutor dashboard shows available leads, assigned sessions, earnings, attendance, and upskill courses. Log in at /tutor/dashboard.
+tutor dashboard,view my sessions,Your tutor dashboard shows available leads, assigned sessions, earnings, attendance, and upskill courses. Log in at /tutor/dashboard.
+attendance,attendance tracking,Tutor attendance is tracked via geo-location for home tuition sessions to ensure accountability and transparency.
+attendance,geo location attendance,Tutor attendance is tracked via geo-location for home tuition sessions to ensure accountability and transparency.
+attendance,how is attendance marked,Tutor attendance is tracked via geo-location for home tuition sessions to ensure accountability and transparency.
+attendance,location tracking tutor,Tutor attendance is tracked via geo-location for home tuition sessions to ensure accountability and transparency.
+complaint,complaint,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,i have a complaint,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,bad experience,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,not satisfied,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,raise a complaint,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,problem with service,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,tutor did not come,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+complaint,tutor was late,We take complaints seriously. Please email us at support@vidhyagharse.com with your booking ID and we will resolve it within 24 hours.
+feedback,feedback,We love feedback! Share your experience at /feedback or email us. Your input helps us serve you better.
+feedback,give review,We love feedback! Share your experience at /feedback or email us. Your input helps us serve you better.
+feedback,rate tutor,We love feedback! Share your experience at /feedback or email us. Your input helps us serve you better.
+feedback,share experience,We love feedback! Share your experience at /feedback or email us. Your input helps us serve you better.
+feedback,review tutor,We love feedback! Share your experience at /feedback or email us. Your input helps us serve you better.
+otp_login,otp not received,Please check your SMS inbox and spam. If not received within 2 minutes, click resend OTP. Still facing issues? Contact support.
+otp_login,otp issue,Please check your SMS inbox and spam. If not received within 2 minutes, click resend OTP. Still facing issues? Contact support.
+otp_login,resend otp,Please check your SMS inbox and spam. If not received within 2 minutes, click resend OTP. Still facing issues? Contact support.
+otp_login,otp not coming,Please check your SMS inbox and spam. If not received within 2 minutes, click resend OTP. Still facing issues? Contact support.
+otp_login,login with otp,You can log in securely using your mobile number and OTP verification. Visit /login to get started.
+otp_login,how to login,You can log in securely using your mobile number and OTP verification. Visit /login to get started.
+otp_login,forgot password,You can log in securely using your mobile number and OTP verification. Visit /login to get started.
+otp_login,reset password,You can reset your password via OTP on your registered mobile number. Visit /reset-password.
+blog,blog,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+blog,study tips,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+blog,exam tips,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+blog,parent guide,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+blog,articles,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+blog,educational content,Check out our blog at /blog for study tips, exam guides, and parent resources updated regularly!
+social_media,instagram,Follow us on Instagram and Facebook @VidhyaGharSe for updates, tips, and offers!
+social_media,facebook,Follow us on Instagram and Facebook @VidhyaGharSe for updates, tips, and offers!
+social_media,social media,Follow us on Instagram and Facebook @VidhyaGharSe for updates, tips, and offers!
+social_media,follow you,Follow us on Instagram and Facebook @VidhyaGharSe for updates, tips, and offers!
+social_media,youtube channel,Follow us on Instagram and Facebook @VidhyaGharSe for updates, tips, and offers!
+discount,discount,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+discount,coupon code,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+discount,offer,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+discount,promo code,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+discount,any deals,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+discount,referral,We occasionally offer discounts and promotional offers. Subscribe to our newsletter or follow us on social media to stay updated!
+how_it_works,how does it work,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+how_it_works,process,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+how_it_works,steps to get tutor,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+how_it_works,how to start,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+how_it_works,getting started,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+how_it_works,explain the process,It is simple! 1. Register as parent. 2. Share your requirements. 3. Pay demo fee. 4. We assign a verified tutor. 5. Demo class. 6. Continue if satisfied!
+not_understood,i don't understand,I am sorry I could not understand that. Could you please rephrase? You can also contact us at support@vidhyagharse.com for help.
+not_understood,what do you mean,I am sorry I could not understand that. Could you please rephrase? You can also contact us at support@vidhyagharse.com for help.
+not_understood,can you explain,I am sorry I could not understand that. Could you please rephrase? You can also contact us at support@vidhyagharse.com for help.
+not_understood,i am confused,I am sorry I could not understand that. Could you please rephrase? You can also contact us at support@vidhyagharse.com for help.
+not_understood,not clear,I am sorry I could not understand that. Could you please rephrase? You can also contact us at support@vidhyagharse.com for help.
+tutor_timing,class timing,You can set your preferred class timings during registration. Tutors work around your schedule as much as possible.
+tutor_timing,session duration,Each session is typically 1 to 1.5 hours. This can be adjusted based on your requirement.
+tutor_timing,how long is each class,Each session is typically 1 to 1.5 hours. This can be adjusted based on your requirement.
+tutor_timing,sessions per week,The number of sessions per week depends on your plan. Typically 3 to 5 sessions per week are recommended.
+tutor_timing,class frequency,The number of sessions per week depends on your plan. Typically 3 to 5 sessions per week are recommended.
+tutor_timing,weekend classes,Yes! We have tutors available for weekend sessions too. Mention your preference during registration.
+tutor_timing,morning classes,Yes! We have tutors available for morning, afternoon, and evening slots. Mention your preference during registration.
+tutor_timing,evening classes,Yes! We have tutors available for morning, afternoon, and evening slots. Mention your preference during registration.
+invoice,invoice,You can download your invoice from the parent dashboard after logging in at /parent/dashboard.
+invoice,bill,You can download your invoice from the parent dashboard after logging in at /parent/dashboard.
+invoice,receipt,You can download your invoice from the parent dashboard after logging in at /parent/dashboard.
+invoice,payment receipt,You can download your invoice from the parent dashboard after logging in at /parent/dashboard.
+invoice,gst invoice,You can download your invoice from the parent dashboard after logging in at /parent/dashboard.
+newsletter,subscribe,Subscribe to our newsletter at /subscribe to get the latest updates, study tips, and exclusive offers!
+newsletter,newsletter,Subscribe to our newsletter at /subscribe to get the latest updates, study tips, and exclusive offers!
+newsletter,email updates,Subscribe to our newsletter at /subscribe to get the latest updates, study tips, and exclusive offers!
+newsletter,get updates,Subscribe to our newsletter at /subscribe to get the latest updates, study tips, and exclusive offers!
+careers,jobs,We are growing! Check our open positions at /careers. We look for passionate educators and tech professionals.
+careers,careers,We are growing! Check our open positions at /careers. We look for passionate educators and tech professionals.
+careers,hiring,We are growing! Check our open positions at /careers. We look for passionate educators and tech professionals.
+careers,work with you,We are growing! Check our open positions at /careers. We look for passionate educators and tech professionals.
+careers,internship,We are growing! Check our open positions at /careers. We look for passionate educators and tech professionals.
+partner,partnership,Interested in partnering with VidhyaGharSe? Email us at partners@vidhyagharse.com and our team will get back to you within 48 hours.
+partner,collaborate,Interested in partnering with VidhyaGharSe? Email us at partners@vidhyagharse.com and our team will get back to you within 48 hours.
+partner,business partnership,Interested in partnering with VidhyaGharSe? Email us at partners@vidhyagharse.com and our team will get back to you within 48 hours.
+partner,b2b,Interested in partnering with VidhyaGharSe? Email us at partners@vidhyagharse.com and our team will get back to you within 48 hours.
+partner,affiliate,Interested in partnering with VidhyaGharSe? Email us at partners@vidhyagharse.com and our team will get back to you within 48 hours.
+terms,terms and conditions,You can read our Terms and Conditions at /terms. Feel free to ask if you have any specific questions.
+terms,terms of service,You can read our Terms and Conditions at /terms. Feel free to ask if you have any specific questions.
+terms,legal,You can read our Terms and Conditions at /terms. Feel free to ask if you have any specific questions.
+terms,user agreement,You can read our Terms and Conditions at /terms. Feel free to ask if you have any specific questions.
+app_download,mobile app,Our mobile app is coming soon! Stay tuned for the VidhyaGharSe app on Android and iOS.
+app_download,download app,Our mobile app is coming soon! Stay tuned for the VidhyaGharSe app on Android and iOS.
+app_download,android app,Our mobile app is coming soon! Stay tuned for the VidhyaGharSe app on Android and iOS.
+app_download,ios app,Our mobile app is coming soon! Stay tuned for the VidhyaGharSe app on Android and iOS.
+app_download,play store,Our mobile app is coming soon! Stay tuned for the VidhyaGharSe app on Android and iOS.
+technical_issue,website not working,We apologize for the inconvenience! Please try refreshing the page or clearing your browser cache. Contact support if the issue persists.
+technical_issue,site down,We apologize for the inconvenience! Please try refreshing the page or clearing your browser cache. Contact support if the issue persists.
+technical_issue,page not loading,We apologize for the inconvenience! Please try refreshing the page or clearing your browser cache. Contact support if the issue persists.
+technical_issue,error on website,We apologize for the inconvenience! Please try refreshing the page or clearing your browser cache. Contact support if the issue persists.
+technical_issue,login not working,Please clear your browser cache and try again. If the issue persists contact support@vidhyagharse.com.
+technical_issue,payment failed,If your payment failed please do not retry immediately. Check your bank account and contact support@vidhyagharse.com with the transaction details.
+group_class,group tuition,Currently we focus on personalized 1-on-1 tuition. Group classes may be available for certain courses. Contact us for details.
+group_class,batch classes,Currently we focus on personalized 1-on-1 tuition. Group classes may be available for certain courses. Contact us for details.
+group_class,small group tuition,Currently we focus on personalized 1-on-1 tuition. Group classes may be available for certain courses. Contact us for details.
+sibling_booking,two children,Yes! You can register multiple children under one parent account. Each child will be matched with the most suitable tutor.
+sibling_booking,my two kids,Yes! You can register multiple children under one parent account. Each child will be matched with the most suitable tutor.
+sibling_booking,siblings tutor,Yes! You can register multiple children under one parent account. Each child will be matched with the most suitable tutor.
+sibling_booking,tutor for both kids,Yes! You can register multiple children under one parent account. Each child will be matched with the most suitable tutor.
+language_hindi,hindi medium,We have tutors for Hindi medium students too. Mention your medium of instruction during registration.
+language_hindi,hindi tutor,We have tutors for Hindi medium students too. Mention your medium of instruction during registration.
+language_hindi,hindi classes,We have tutors for Hindi medium and Hindi language classes. Register and share your requirements.
+language_hindi,hindi language tutor,We have tutors for Hindi medium and Hindi language classes. Register and share your requirements.
+language_telugu,telugu tutor,We have tutors for Telugu medium students and Telugu language classes across Telangana and AP.
+language_telugu,telugu classes,We have tutors for Telugu medium students and Telugu language classes across Telangana and AP.
+language_telugu,telugu medium,We have tutors for Telugu medium students and Telugu language classes across Telangana and AP.
+special_needs,special needs tutor,We have empathetic tutors experienced with special needs students. Please contact us directly so we can find the best match for your child.
+special_needs,slow learner tutor,We have empathetic tutors experienced with special needs students. Please contact us directly so we can find the best match for your child.
+special_needs,dyslexia tutor,We have empathetic tutors experienced with special needs students. Please contact us directly so we can find the best match for your child.
+ai_features,ai tutor matching,Our AI-powered system matches students with the best tutors based on location, subject, availability, and performance history.
+ai_features,how are tutors matched,Our AI-powered system matches students with the best tutors based on location, subject, availability, and performance history.
+ai_features,smart matching,Our AI-powered system matches students with the best tutors based on location, subject, availability, and performance history.
+ai_features,automatic tutor assignment,Our AI-powered system matches students with the best tutors based on location, subject, availability, and performance history.
+find_tutor,can you help me find a good tutor for my child,We will help you find the perfect tutor! Please register as a parent and share your requirements.
+find_tutor,i am looking for a tutor near my home,We will help you find the perfect tutor! Please register as a parent and share your requirements.
+find_tutor,how can i get a qualified tutor for my kid,We will help you find the perfect tutor! Please register as a parent and share your requirements.
+
+pricing,can you tell me the total cost for tuition classes,Our tuition plans start at Rs.499. Visit /pricing for full details.
+pricing,i want to know how much you charge per month,Our tuition plans start at Rs.499. Visit /pricing for full details.
+pricing,what will be the monthly fees for home tuition,Our tuition plans start at Rs.499. Visit /pricing for full details.
+
+demo_class,is there any trial class available before I pay,We offer a demo session before you commit. You can try before continuing.
+demo_class,can my child attend a demo class first,We offer a demo session before you commit. You can try before continuing.
+
+online_tuition,do you provide online classes for students,We offer live 1-on-1 online tuition from home with verified tutors.
+online_tuition,can my child study through online video classes,We offer live 1-on-1 online tuition from home with verified tutors.
+
+home_tuition,do you send tutors to home for teaching,We offer home tuition at your doorstep in major cities.
+home_tuition,i need a tutor who can come to my house daily,We offer home tuition at your doorstep in major cities.
+
+parent_register,how can i register my child for tuition,Visit /parent-register and complete the simple registration process.
+parent_register,what is the process to sign up as a parent,Visit /parent-register and complete the simple registration process.
+
+tutor_register,how can i apply to become a tutor on your platform,Visit /become-a-tutor and upload your documents.
+tutor_register,i want to join as a teacher how can i register,Visit /become-a-tutor and upload your documents.
+
+payment,how do i make payment for tuition services,All payments are made securely via UPI, cards, or net banking.
+payment,what payment methods are accepted on your platform,We accept UPI, debit card, credit card, and net banking.
+
+refund,if i am not satisfied can i get my money back,Refunds are processed as per policy. Contact support with your booking ID.
+refund,what is your refund policy for tuition services,Refunds are processed as per policy. Contact support.
+
+reschedule,can i change the timing of my child’s class,You can reschedule by contacting your tutor or support.
+reschedule,what if i want to postpone a class session,You can reschedule by contacting your tutor or support.
+
+tutor_quality,how do you ensure tutors are qualified and verified,All tutors are verified with Aadhaar and resume checks.
+tutor_quality,are your tutors experienced and trustworthy,Yes all tutors are verified and performance tracked.
+
+contact,how can i contact your support team for help,Reach us at support@vidhyagharse.com or WhatsApp.
+contact,i need help how can i reach your customer care,Reach us at support@vidhyagharse.com or WhatsApp.
+
+privacy,is my personal data safe on your platform,Your data is encrypted and never shared.
+privacy,do you share my contact details with tutors,No all communication is done via platform.
+
+how_it_works,can you explain how your platform works step by step,Register → share requirement → demo → tutor assigned.
+how_it_works,what is the process to get a tutor through your platform,Register → share requirement → demo → tutor assigned.
